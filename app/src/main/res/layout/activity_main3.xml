@@ -19,7 +19,8 @@
         android:id="@+id/id_lv"
         android:layout_below="@id/id_btn_3_4"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:divider="@null">
 
     </ListView>
 </RelativeLayout>
